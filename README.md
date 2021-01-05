@@ -1,1 +1,2 @@
 # BlogApp
+showing blogs
